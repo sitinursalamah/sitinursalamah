@@ -1,5 +1,5 @@
 ## Hello World! I'm Siti Nur Salamah 👋
-![Siti Nur Salamah](img/github-header-image.png)
+![Siti Nur Salamah](img/github-header-image-new.png)
 
 ## 🎓 About Me
 ---
