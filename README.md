@@ -71,12 +71,12 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 - 💼 Hands-on experience in data-driven decision making
 
 ##### 📊 GitHub Stats
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=sitinursalamah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
-<div align="center">
+<div >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitinursalamah&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitinursalamah&langs_count=8&theme=tokyonight)
 </div>
 
 
