@@ -80,20 +80,17 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 
-##### 📫 Let's Connect!
+##### 📫 Let's Connect and see my portofolio!
 <div align="left">
   <a href="https://www.linkedin.com/in/sitinursalamah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sitinursalamah54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.ristek.link/PortofolioSitiNurSalamah" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-##### 📍 Location & Contact
+##### Location & Contact
 📍 Bogor, Jawa Barat, Indonesia
 📱 +62-896-1767-4646
 ✉️ sitinursalamah54@gmail.com
