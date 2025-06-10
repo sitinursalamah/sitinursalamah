@@ -67,7 +67,7 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 ##### 🏆 Achievements
 - 🥇 Success in national data science competitions
 - 📚 Research experience in statistical modeling
-- 🎯 Strong academic performance in Mathematics program
+- 🎯 Strong academic performance in Mathematics 
 - 💼 Hands-on experience in data-driven decision making
 
 ##### 📊 GitHub Stats
