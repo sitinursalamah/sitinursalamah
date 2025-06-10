@@ -2,38 +2,32 @@
 ![Siti Nur Salamah](img/github-header-image-new.png)
 
 ## 🎓 About Me
----
 Final year Mathematics student at the University of Indonesia with strong analytical skills and hands-on experience in data analysis, machine learning, and statistical modeling. Proven success in national data science competitions and research projects.
 
 ##### Currently seeking opportunities as:
----
 - 📊 Data Analyst
 - 🤖 Data Scientist
 - 📈 Business Intelligence Analyst
 
 ##### 🔭 What I'm Currently Working On
----
 - Completing my final year mathematics research project
 - Building data science portfolio projects
 - Participating in data science competitions
 - Expanding my machine learning knowledge
 
 ##### 🌱 What I'm Currently Learning
----
 - Advanced machine learning algorithms
 - Deep learning frameworks
 - Cloud computing for data science
 - Business intelligence tools and visualization
 
 ##### 👯 Looking to Collaborate On
----
 - Data science research projects
 - Machine learning competitions
 - Open source data analysis tools
 - Statistical modeling projects
 
 ##### Programming Languages
----
 <div align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -42,13 +36,11 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### Databases & Tools
----
 <div align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ##### Data Analysis & Visualization
----
 <div align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
@@ -58,7 +50,6 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### Machine Learning & Statistics
----
 <div align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -66,7 +57,6 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### Office & Documentation
----
 <div align="left">
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
@@ -75,14 +65,12 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### 🏆 Achievements
----
 - 🥇 Success in national data science competitions
 - 📚 Research experience in statistical modeling
 - 🎯 Strong academic performance in Mathematics program
 - 💼 Hands-on experience in data-driven decision making
 
 ##### 📊 GitHub Stats
----
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sitinursalamah&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
@@ -91,7 +79,6 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### 📫 Let's Connect!
----
 <div align="left">
   <a href="https://www.linkedin.com/in/sitinursalamah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -105,7 +92,6 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### 📍 Location & Contact
----
 📍 Bogor, Jawa Barat, Indonesia
 📱 +62-896-1767-4646
 ✉️ sitinursalamah54@gmail.com
