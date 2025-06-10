@@ -72,11 +72,13 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 
 ##### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sitinursalamah&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sitinursalamah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitinursalamah&layout=compact&theme=radical" alt="Top Languages" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitinursalamah&layout=compact&theme=tokyonight)
 </div>
+
 
 ##### 📫 Let's Connect!
 <div align="left">
