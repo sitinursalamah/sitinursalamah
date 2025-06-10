@@ -7,7 +7,7 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 ##### Currently seeking opportunities as:
 - 📊 Data Analyst
 - 🤖 Data Scientist
-- 📈 Business Intelligence Analyst
+- 📈 Business Intelligence 
 
 ##### 🔭 What I'm Currently Working On
 - Completing my final year mathematics research project
