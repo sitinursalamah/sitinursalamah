@@ -102,3 +102,15 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 <div align="center">
 "Turning data into insights, solving problems with mathematics" 📊✨
 </div>
+
+<img src="https://raw.githubusercontent.com/sitinursalamah/sitinursalamah/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitinursalamah/sitinursalamah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitinursalamah/sitinursalamah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sitinursalamah/sitinursalamah/output/pacman-contribution-graph.svg">
+</picture>
+
+###
