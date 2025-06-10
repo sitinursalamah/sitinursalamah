@@ -80,7 +80,7 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 
-##### 📫 Let's Connect and see my portofolio!
+##### 📫 Let's Connect and see my portfolio!
 <div align="left">
   <a href="https://www.linkedin.com/in/sitinursalamah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
