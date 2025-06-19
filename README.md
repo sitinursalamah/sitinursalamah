@@ -5,23 +5,23 @@
 Final year Mathematics student at the University of Indonesia with strong analytical skills and hands-on experience in data analysis, machine learning, and statistical modeling. Proven success in national data science competitions and research projects.
 
 ##### Currently seeking opportunities as:
-- 📊 Data Analyst
-- 🤖 Data Scientist
-- 📈 Business Intelligence 
+- Data Analyst
+- Data Scientist
+- Business Intelligence 
 
-##### 🔭 What I'm Currently Working On
+##### What I'm Currently Working On
 - Completing my final year mathematics research project
 - Building data science portfolio projects
 - Participating in data science competitions
 - Expanding my machine learning knowledge
 
-##### 🌱 What I'm Currently Learning
+##### What I'm Currently Learning
 - Advanced machine learning algorithms
 - Deep learning frameworks
 - Cloud computing for data science
 - Business intelligence tools and visualization
 
-##### 👯 Looking to Collaborate On
+##### Looking to Collaborate On
 - Data science research projects
 - Machine learning competitions
 - Open source data analysis tools
@@ -66,10 +66,13 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### 🏆 Achievements
-- 🥇 Success in national data science competitions
-- 📚 Research experience in statistical modeling
-- 🎯 Strong academic performance in Mathematics 
-- 💼 Hands-on experience in data-driven decision making
+•	Top 6 Finalist, National Data Science Competition – FORTEX 5.0 by HMIF UAI (2025)
+•	2nd Place, National Essay Competition – Galaksi 2.0 by UKM Poltekkes Denpasar (2025)
+•	3rd Place, National Scientific Writing Competition – Marscion by Himatika FMIPA Universitas Padjadjaran (2023)
+•	Top 15 Finalist, IPB Mathematics Challenge Essay – Gumatika & Assa IPB (2024)
+•	Co-author, Forecasting PM2.5 and PM10 Pollution in East Jakarta using SARIMA (2024)
+Published on ResearchGate (DOI: 10.13140/RG.2.2.10480.16646) 
+•	Bank Indonesia Scholarship Awardee (2024)
 
 ##### 📊 GitHub Stats
 <div>
