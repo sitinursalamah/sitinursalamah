@@ -66,13 +66,13 @@ Final year Mathematics student at the University of Indonesia with strong analyt
 </div>
 
 ##### 🏆 Achievements
-•	Top 6 Finalist, National Data Science Competition – FORTEX 5.0 by HMIF UAI (2025)
-•	2nd Place, National Essay Competition – Galaksi 2.0 by UKM Poltekkes Denpasar (2025)
-•	3rd Place, National Scientific Writing Competition – Marscion by Himatika FMIPA Universitas Padjadjaran (2023)
-•	Top 15 Finalist, IPB Mathematics Challenge Essay – Gumatika & Assa IPB (2024)
-•	Co-author, Forecasting PM2.5 and PM10 Pollution in East Jakarta using SARIMA (2024)
+-	Top 6 Finalist, National Data Science Competition – FORTEX 5.0 by HMIF UAI (2025)
+-	2nd Place, National Essay Competition – Galaksi 2.0 by UKM Poltekkes Denpasar (2025)
+-	3rd Place, National Scientific Writing Competition – Marscion by Himatika FMIPA Universitas Padjadjaran (2023)
+-	Top 15 Finalist, IPB Mathematics Challenge Essay – Gumatika & Assa IPB (2024)
+-	Co-author, Forecasting PM2.5 and PM10 Pollution in East Jakarta using SARIMA (2024)
 Published on ResearchGate (DOI: 10.13140/RG.2.2.10480.16646) 
-•	Bank Indonesia Scholarship Awardee (2024)
+-	Bank Indonesia Scholarship Awardee (2024)
 
 ##### 📊 GitHub Stats
 <div>
