@@ -89,7 +89,7 @@ Published on ResearchGate (DOI: 10.13140/RG.2.2.10480.16646)
   <a href="https://www.linkedin.com/in/sitinursalamah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.ristek.link/PortofolioSitiNurSalamah" target="_blank">
+  <a href="https://portfoliositinursalamah.my.canva.site/mathui" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
