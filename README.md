@@ -2,7 +2,7 @@
 ![Siti Nur Salamah](img/github-header-image-new.png)
 
 ## 🎓 About Me
-Final year Mathematics student at the University of Indonesia with strong analytical skills and hands-on experience in data analysis, machine learning, and statistical modeling. Proven success in national data science competitions and research projects.
+Fresh graduate in Mathematics from the University of Indonesia with strong analytical skills and hands-on experience in data analysis, machine learning, and statistical modeling. Proven success in national data science competitions and research projects.
 
 ##### Currently seeking opportunities as:
 - Data Analyst
