@@ -96,7 +96,6 @@ Published on ResearchGate (DOI: 10.13140/RG.2.2.10480.16646)
 
 ##### Location & Contact
 📍 Bogor, Jawa Barat, Indonesia
-📱 +62-896-1767-4646
 ✉️ sitinursalamah54@gmail.com
 
 <div align="center">
